@@ -1,4 +1,3 @@
-# random_people_d
-
+# random_people_db
 
 First commit
